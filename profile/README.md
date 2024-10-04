@@ -1,4 +1,8 @@
-## Hi there 👋
+![Banner](https://www.imghippo.com/i/lipsf1728013031.jpg)
+<p align="center">
+  <img src="https://www.imghippo.com/i/lipsf1728013031.jpg" alt="Banner" width="600"/>
+</p>
+
 
 
 **Here are some ideas to get you started:**
