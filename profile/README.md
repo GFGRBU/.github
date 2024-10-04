@@ -1,11 +1,6 @@
-![Banner](https://www.imghippo.com/i/lipsf1728013031.jpg)
-<p align="center">
-  <img src="https://www.imghippo.com/i/lipsf1728013031.jpg" alt="Banner" width="600"/>
-</p>
+![Banner](https://github.com/GFGRBU/.github/blob/main/assets/gfgbanner.jpg)
 
-
-
-**Here are some ideas to get you started:**
+# This is the Official Repository of GFG RBU
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
